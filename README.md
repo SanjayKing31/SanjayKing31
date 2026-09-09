@@ -1,16 +1,61 @@
-## Hi there 👋
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│                    SANJAY KING                              │
+│                                                            │
+│          SOFTWARE DEVELOPER • CSE • BUILDER                │
+│                                                            │
+│     Building interactive software & real-world systems.    │
+│                                                            │
+│       [ LinkedIn ]  [ Portfolio ]  [ Email ]               │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 
-<!--
-**SanjayKing31/SanjayKing31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                    ⚡ WHAT I BUILD
 
-Here are some ideas to get you started:
+       🎮 Browser Applications
+       ⚡ Real-Time Systems
+       🧠 AI / Image Processing
+       ☁️ Full-Stack Applications
 
-- 🔭 I’m currently working on Java Fullstack
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                    🛠️ TECH STACK
+
+       React  TypeScript  Java  JavaScript
+       Node.js  Spring Boot  Socket.IO
+       Supabase  MySQL  Git  Vite
+
+
+                    🚀 FEATURED WORK
+
+       ┌─────────────────────────────────────────┐
+       │ 🎮 GBA HUB                              │
+       │ Browser-Based GBA Emulator              │
+       │ React • TypeScript • Canvas • Supabase  │
+       └─────────────────────────────────────────┘
+
+       ┌─────────────────────────────────────────┐
+       │ 🖼️ PixelForgeAI                         │
+       │ Image Enhancement & Upscaling           │
+       │ Canvas • JavaScript • LocalStorage      │
+       └─────────────────────────────────────────┘
+
+       ┌─────────────────────────────────────────┐
+       │ 📡 FileTransferXO                       │
+       │ Real-Time File Sharing                  │
+       │ Node • Express • Socket.IO              │
+       └─────────────────────────────────────────┘
+
+
+                    📊 GITHUB ACTIVITY
+
+          ┌─────────────┐  ┌─────────────┐
+          │ GitHub Stats│  │   Streak    │
+          └─────────────┘  └─────────────┘
+
+                 Most Used Languages
+
+
+                    🐍 CONTRIBUTIONS
+
+
+                    🤝 LET'S CONNECT
